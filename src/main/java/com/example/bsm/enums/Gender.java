@@ -1,4 +1,4 @@
-package com.example.bsm.entity;
+package com.example.bsm.enums;
 
 public enum Gender {
     MALE, FEMALE, OTHER
